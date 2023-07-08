@@ -113,7 +113,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](https://www.canva.com/design/DAFoD8yIPq8/PU6i9-K-KUUuIYHjQE2GqA/view?utm_content=DAFoD8yIPq8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
@@ -133,9 +133,9 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - Building an app takes alot of different things, this all must be managed and visable for everyone on the team to stay focused and on task to meet deadlines.
+ - Using canva for first time was really awesome, we were able to build really good wire frames to use as a template for building our websites
+ - Using the trello was also very nice, being able to see how a real world coder team works and communicates, builds projects, and just work together
 
 Write down one thing you'd improve on for next time.
 
