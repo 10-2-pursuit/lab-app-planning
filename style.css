@@ -1,0 +1,13 @@
+h1 {
+    display: block;
+    background-image: linear-gradient(to right top, #d10433, #d61e79, #ba50b6, #8176de, #1292eb);
+}
+
+img {
+    max-width: 300px;
+}
+
+section {
+    display: grid;
+  
+}

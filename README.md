@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app will allow users to view bike business in their area and be able to select top tier bike business to go too based off reviews
 
 #### What is the name of your application?
 
-> APP NAME
+> The Cycling Shop Locator
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,8 +44,16 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
-
+> As a customer> I want to be able to create a log in and password> so that I can access the cycling shop locator app
+> As a customer> I want to be able to input my personal information> so that the app can locate me and meet my needs the most efficient way
+> As a customer> I want to be able to see the home page of the app> The user will be able to navigate through the app and use different functionalities
+>As a user> I want to be able to see my current location and cycling stores around the user> This will help the user visialize the cycling store near them on google maps
+>As a user> I want to select one of the cycling stores and receive more detailed information> This information should help the user determine if this is the specific store they want to go too
+>As a user> I want to select a store and be given the quickest directions from my current location> This will allow the user to see how far the destination would be from their current location so that they can coordinate their time properly
+>As a user> I want to be able to save these different stores in a list> The user will be able to come back to this at a later time as well as continue reviewing other  businesses.
+>As a user> I want to see a link that I can use to navigate to the business site> This will give the user direct information regarding the cycling store and more details regarding their business such as what they have in stock
+>As a user> I want to be able to see a review window> this will have detailed information for the user where they can leave a comment or read other reviews from previous users after they shop.
+>As a user> I want to be able to share a business with other users> This will allow the user to share the specific business they visited with other people via the app or using an outside source such as sms.
 #### Create a new board
 
 Follow the format provided (name of board, the 5 lists etc.) in the reading.
@@ -55,7 +63,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [The Cycling Shop Locator](https://trello.com/b/0fpjmbvd/backlog)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +76,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/KMYhQrPi)
 
 #### Create one bug card.
 
@@ -86,7 +94,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/wMB6WSbi)
 
 #### Create one chore card
 
@@ -97,7 +105,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/PqAUtBzP)
 
 ### Wireframes
 
@@ -105,15 +113,15 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](https://www.canva.com/design/DAFoD8yIPq8/PU6i9-K-KUUuIYHjQE2GqA/view?utm_content=DAFoD8yIPq8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](https://www.canva.com/design/DAFntBWGQs8/gg1unUXPJEUH38xESMLpuA/view?utm_content=DAFntBWGQs8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](https://cyclingapp.my.canva.site/)
 
 ## Minimum Viable Product
 
@@ -125,9 +133,9 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - Building an app takes alot of different things, this all must be managed and visable for everyone on the team to stay focused and on task to meet deadlines.
+ - Using canva for first time was really awesome, we were able to build really good wire frames to use as a template for building our websites
+ - Using the trello was also very nice, being able to see how a real world coder team works and communicates, builds projects, and just work together
 
 Write down one thing you'd improve on for next time.
 
