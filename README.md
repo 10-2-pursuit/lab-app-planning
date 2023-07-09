@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a chat application that lets you connect with various people all over the world. You are able to create chat groups or have single private diret messaging with whoever you choose to contant. 
 
 #### What is the name of your application?
 
-> APP NAME
+> The app name would be GlobeLink
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -45,6 +45,18 @@ Choose from any popular app. It can be an app for anything:
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+
+- `As a <GlobeLink user>, I want to <sign in and out>, so that <my account is protected>.`
+- `As a <GlobeLink user>, I want to <create group chats>, so that <I can talk to multiple at the same time instead of one at a time>.`
+- `As a <GlobeLink user>, I want to <upload a profile picture>, so that <everyone would know it's me>.`
+- `As a <GlobeLink user>, I want to <have a security question>, so that <if I forget my password I can answer a security question and reset it or get it>.`
+- `As a <GlobeLink user>, I want to <be able to add and delete friends>, so that <I have easy access to message a friend whenever or delete someone>.`
+- `As a <GlobeLink user>, I want to <be able to block another user>, so that <if me and that person are no longer friends they can't message me>.`
+- `As a <GlobeLink user>, I want to <be able report someone>, so that <if they are doing anything bad the developemnt team can stop them>.`
+- `As a <GlobeLink user>, I want to <be able to name the group chat>, so that <so that we can I know what group of people I am talking to>.`
+- `As a <GlobeLink user>, I want to <have the ability to get notifications>, so that <I know when and how many people messaged me>.`
+- `As a <GlobeLink user>, I want to <have the ability to have status signs>, so that <my friends know when I am offline or online>.`
+
 
 #### Create a new board
 
@@ -55,7 +67,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [GlobeLink board here](https://trello.com/b/NYw9x2ES/globelink-project-management)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +80,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/UcFDSRi6/2-acceptance-criteria)
 
 #### Create one bug card.
 
@@ -86,7 +98,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/iuEpnWZj/5-add-friend-bug)
 
 #### Create one chore card
 
@@ -97,7 +109,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/ZJGgKYPO/6-fix-add-friend-bug)
 
 ### Wireframes
 
