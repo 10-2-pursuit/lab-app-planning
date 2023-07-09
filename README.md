@@ -117,15 +117,15 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](./assets/Main%20Page%20Mobile.jpg)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](./assets/Main%20Page%20Desktop.jpg)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](./assets/New%20Form%20page.jpg)
 
 ## Minimum Viable Product
 
@@ -137,10 +137,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - I was able to showcase an early interface which helped with making the design
+ - Creating a wireframe helps with visualization
+ - lerning how to create boards
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve would be creating a more detailed wireframe so it can look more appealing.
