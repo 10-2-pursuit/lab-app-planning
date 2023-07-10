@@ -137,10 +137,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- one -> Doing the lab ion this manner, allows us to focus on what we need to bring an app/website to market, keeping us focused
+- two -> We our better able to understand what it is we need to do/work on in a particular app
+- three -> We are better able to work together using some of the tools discussed in this lab
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is making my user stories far more simple, so I can better focus on the functionality needed to develop an app being requested.
