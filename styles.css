@@ -1,0 +1,17 @@
+.log-in-info {
+    display: inline-block;
+    justify-content: center;
+}
+
+input {
+    margin-bottom: 10px;
+
+}
+
+.log-in {
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+}

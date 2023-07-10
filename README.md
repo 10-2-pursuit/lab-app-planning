@@ -30,21 +30,33 @@ Choose from any popular app. It can be an app for anything:
 
 ## Project Managing Tool
 
-#### In 1-3 sentences describe your application.
+#### In 1-3 sentences describe your application
 
 > My app ...
 
+Our app is a Music App
+
 #### What is the name of your application?
 
-> APP NAME
+> APP NAME : Pocket DJ
 
-#### Create a minimum of 10 user stories. Make sure to use the format:
+#### Create a minimum of 10 user stories. Make sure to use the format
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+> A Pocket DJ user has to login or create an account so they can use Pocket DJ
+A Pocket DJ user can listen to a song that they select so that they can enjoy it
+> A Pocket DJ user can build a playlist of songs that they select so that they can have a list of songs they enjoy
+> A Pocket DJ user  can like a song, so that that they are more likely to hear that song, or songs like that
+> A Pocket DJ user  can search existing playlist so they can find a playlist created by another user
+>A Pocket DJ user  can have a song repeat x amount of times so they can hear the song however many times they want in a row
+>A Pocket DJ user  can add their own song to the database so they can contribute their own music or update the app library
+>A Pocket DJ user  can play a song backwards> so they can hear what it sounds like
+>A Pocket DJ user can recommend songs to other users> so they can share their sound with others
+>A Pocket DJ user  can blend songs together through a mixer in the app
 
 #### Create a new board
 
@@ -55,9 +67,9 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Pocket DJ board](https://trello.com/b/LvAi0iqf/pocket-dj-app-planning-lab)
 
-#### For one card, fill out more details, include:
+#### For one card, fill out more details, include
 
 - The business case
 - Acceptance criteria
@@ -68,9 +80,9 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/2tZLdB6F/16-a-user-can-add-their-own-song-to-the-database-so-they-can-contribute-their-own-music-or-update-the-app-library)
 
-#### Create one bug card.
+#### Create one bug card
 
 Think back to a bug you had in a recent lab or project and do your best to model that example.
 It can either be a bug you solved or that you didn't get a chance to solve.
@@ -86,7 +98,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/ceaG5Fay/12-bug-every-time-i-hit-reset-on-form-my-entire-page-does-a-reload-expected-behavior-instead-of-the-form-alone-being-reset-to-blank)
 
 #### Create one chore card
 
@@ -97,7 +109,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/5McsEB6j/13-chore-due-7-9-23-finish-requirements-of-this-trello-board)
 
 ### Wireframes
 
@@ -105,15 +117,15 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](./assets/IMG_3991.jpg)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](./assets/IMG_3992.jpg)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](./assets/IMG_3993.jpg)
 
 ## Minimum Viable Product
 
@@ -124,11 +136,11 @@ Deploy this to GitHub pages.
 ## Reflection
 
 Write down three things that went well for you doing this lab.
- 
- - one
- - two
- - three
+
+- one -> Doing the lab ion this manner, allows us to focus on what we need to bring an app/website to market, keeping us focused
+- two -> We our better able to understand what it is we need to do/work on in a particular app
+- three -> We are better able to work together using some of the tools discussed in this lab
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is making my user stories far more simple, so I can better focus on the functionality needed to develop an app being requested.
