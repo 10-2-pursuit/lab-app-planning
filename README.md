@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app will be an application designed for men and women who want to develop a genuine community raising their children. It is specifally for parents who are working or go to school, they want to excel and need a community that can help them navigate through life and give advice on resume tips, interview tips, trade school or traditional college etc 
 
 #### What is the name of your application?
 
-> APP NAME
+> APP NAME: Cool Parents 
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,8 +44,14 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
-
+> - As a user I want to utilize a safe space where I can have a respeectful discussion about the ups and downs of being a parent. 
+> - I want to create a profile with just my name and email, no phone number because I do not want any spam calls
+> - I want the option of muting the app during down time so I am not interrupted.
+> - I have the option of adding my own personal links to connect with parents in the same field.
+> - I want the design to be accesible and sleek. 
+> - Sign up for updates in the app, any news on something that I am interested in. 
+> - A survey designed to get my opinion on the different grops within the app.
+> - Zoom meetings where we can chat, have a drink and relax while the kids are asleep. 
 #### Create a new board
 
 Follow the format provided (name of board, the 5 lists etc.) in the reading.
