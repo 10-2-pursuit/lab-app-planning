@@ -31,23 +31,27 @@ Choose from any popular app. It can be an app for anything:
 ## Project Managing Tool
 
 #### In 1-3 sentences describe your application.
-
-> My app ...
-
+A social media that connects people with the similar hobbies and future activities so no one will ever go on a trip alone specially when everyone is not available to be there when you need them to.
 #### What is the name of your application?
-
-> APP NAME
+getTogether
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
+- As a influencer, i want to not just experience things, blog or travel alone. Sometimes i need someone who share the same passion as I have to give a non-bias reviews on what or where or who Im sharing my thoughts to my viewers or followers.>
+-As a traveler I love to connect with people everywhere I go, thats why I started my travels to see new place and have new connections from places I visited. >
+- As a single gay men, I do a lot of things alone, It will be great to meet someone who can is able to share my ideas and making things happen.
+-As a NewYorker, I tend to brush through everything, barely no time for friends. But when I have time to do what I love, its very rare that most of my friends have time to do what I want to do theres always conflict of interest. I want to have someone with me enjoying the things I want and when i am available to enjoy them.
+-As a frequent traveler, I need to know information about the locals and who can I come for help and also to know the perfect time and date to visit.
+-As a busy single female, I want the freedom to do things when i want and hopefully who I want. Being female and alone traveling could be dangerous and having someone with yuo kinda give you a sense of security. 
 
+>
+> 
 > As a ...
 
 #### Create a new board
-
 Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 - Add a minimum of 5 cards (front only) based on your user stories to `Backlog`.
